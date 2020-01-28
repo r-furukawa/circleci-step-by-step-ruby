@@ -1,4 +1,4 @@
-# CircleCI Step by Step Application using Ruby
+# CircleCI Step by Step Application using Ruby 
 [![CircleCI](https://circleci.com/gh/kurumai/circleci-step-by-step-ruby/tree/step4-run-test.svg?style=svg)](https://circleci.com/gh/kurumai/circleci-step-by-step-ruby/tree/step4-run-test)
 
 This is an example application how to learn CircleCI step by step.
